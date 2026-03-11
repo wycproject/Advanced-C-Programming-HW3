@@ -1,0 +1,20 @@
+﻿  main.cpp
+E:\學校資料(新)\進階C語言實務\HW3\include\Object.h(8,15): warning C4099: 'Object': 類型名稱之前使用 'class'，現在發現使用 'struct'
+E:\學校資料(新)\進階C語言實務\HW3\include\Object.h(8): message : 請參閱 'Object' 的宣告
+E:\學校資料(新)\進階C語言實務\HW3\Project2\main.cpp(60,58): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\進階C語言實務\HW3\Project2\main.cpp(94,29): warning C4244: '正在初始化': 將 'const _Ty' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+E:\學校資料(新)\進階C語言實務\HW3\Project2\main.cpp(95,29): warning C4244: '正在初始化': 將 'const _Ty' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+E:\學校資料(新)\進階C語言實務\HW3\Project2\main.cpp(96,29): warning C4244: '正在初始化': 將 'const _Ty' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  Project3.vcxproj -> E:\學校資料(新)\進階C語言實務\HW3\Project2\Debug\Project3.exe
